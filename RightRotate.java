@@ -15,7 +15,7 @@ class RightRotate
     	}
 
     	for(int i = 0; i  < n-d; i++)
-    	{
+        {
     		arr[i +d] = arr[i];
     	}
 
